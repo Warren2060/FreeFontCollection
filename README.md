@@ -1,7 +1,7 @@
 # FreeFontCollection
 年度更新的精选字体合集。<br>
 进过一年的使用感受与沉淀，拟了全新的字体收录标准，选出了今年的年度30佳字体，使用MasterGo设计工具收集整理，可以方便的查阅链接和详细的介绍。
-### 在线查看 [{MasterGo字体合辑}](https://mastergo.com/goto/wBhu1SRO?page_id=234:4226&file=109471867324863)
+### 在线查看 [{MasterGo字体合辑}](https://mastergo.com/goto/wBixBfjx?file=109471867324863)
 ### 在线下载 [{查阅Release}](https://github.com/Warren2060/FreeFontCollection)
 <br>
 
