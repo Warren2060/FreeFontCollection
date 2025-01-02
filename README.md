@@ -1,7 +1,7 @@
 # FreeFontCollection2025
 年度更新的精选字体合集。<br>
 经过一年的使用感受与沉淀，拟了全新的字体收录标准，选出了今年的年度100佳字体（其中中文字体30，西文字体70）<br>
-### 在线下载 [{查阅Release}](https://github.com/Warren2060/FreeFontCollection)
+### 在线下载 [{查阅Release}](https://github.com/Warren2060/FreeFontCollection/releases)
 <br>
 
 ## 免费商用中文字体报告2025
